@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://m.gejiuai.cn/sitemap.xml
